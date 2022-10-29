@@ -1,3 +1,10 @@
+# Ispirational Quotes from gist
+## _get your mood right!_
+
+
+Using GIST to retrive data
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
